@@ -4,7 +4,7 @@
  */
 #include <stdio.h>
 /**
- * Main Description 'To print, Programming is like building a multilingual puzzle'
+ * Main Descripn: 'Programming is like building a multilingual puzzle'
  *
  * Return: Always zero
  */
