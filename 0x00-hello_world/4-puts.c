@@ -4,9 +4,9 @@
  */
 #include <stdio.h>
 /**
- * Main Descripn: 'Programming is like building a multilingual puzzle'
+ * main - Function to print string
  *
- * Return: Always zero
+ * Return: return 0
  */
 int main(void)
 {
