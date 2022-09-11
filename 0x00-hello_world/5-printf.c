@@ -2,7 +2,7 @@
  * title: a program to print string using printf
  * author: abubakar unwaha
  */
-#include <stdio>
+#include <stdio.h>
 
 /**
  * main - the main function print string
