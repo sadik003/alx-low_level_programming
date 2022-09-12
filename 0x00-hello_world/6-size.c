@@ -1,4 +1,5 @@
-/* title: This program print the size of type in computer
+/*
+ * title: This program print the size of type in computer
  * author: Abubakar Unwaha
  *
  */
