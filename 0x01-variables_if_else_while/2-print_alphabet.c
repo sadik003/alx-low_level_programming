@@ -1,6 +1,6 @@
 /*
  * File: 2-print_alphabet.c
- * Auth: 
+ * Auth: Abubakar Unwaha
  */
 
 #include <stdio.h>
