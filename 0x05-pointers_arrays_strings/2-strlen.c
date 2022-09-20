@@ -11,6 +11,9 @@ int _strlen(char *s)
 {
 	int  a;
 	
-	a = *s;
+	a = 0;
+	while (*s != '\0')
+		a++;
+	return (a);
 
 }
