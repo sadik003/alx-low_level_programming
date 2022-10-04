@@ -1,6 +1,15 @@
 #include "main.h"
-int abs()
+
+/**
+ * _abs - function abs
+ *
+ * Return: 0
+ *
+ */
+
+int _abs(void)
+	
 {
-	return 0;
+	return (0);
 }
 
