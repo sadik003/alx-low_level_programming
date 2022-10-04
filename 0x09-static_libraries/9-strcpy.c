@@ -1,6 +1,6 @@
 #include "main.h"
 
-int strcpy()
+int strcpy(void)
 {
-	return 0;
+	return (0);
 }
