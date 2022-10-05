@@ -3,8 +3,7 @@
 
 
 /**
- *
- * create_array - create array
+ * create_array - a function that create array
  *
  * @size: size of array
  * @c: char to assign
