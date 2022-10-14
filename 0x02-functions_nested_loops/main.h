@@ -3,7 +3,8 @@
 
 /*
  * FILE: main.h
- * Description: Header file containing declarations for all functions
+ * Description: Header file containing declarations for all function
+ *
  */
 
 int _putchar(char c);
