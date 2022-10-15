@@ -26,5 +26,3 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 
 	printf("\n");
 }
-Footer
-© 2022 GitHub, Inc.
