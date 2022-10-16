@@ -9,7 +9,8 @@
 #include "main.h"
 
 /*
- * _isalpha - a function that checks if te entered value is alphanumeric
+ *
+ * _isalpha - function that checks if te entered value is alphanumeric
  *
  * @c: is the entered value
  *
@@ -17,14 +18,14 @@
  *
  */
 
-int _isalpha(int c);
+int _isalpha(int c)
 
 {
-	char c;
+	int ch;
 
-	if (c >= 48 && c <= 57)
-		if (c >= 65 && c <= 90)
-			if (c >= 97 && c <= 122)
+	if (ch >= 48 && ch <= 57)
+		if (ch >= 65 && ch <= 90)
+			if (ch >= 97 && ch <= 122)
 			{
 				return (1);
 			}
