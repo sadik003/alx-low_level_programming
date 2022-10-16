@@ -8,13 +8,10 @@
 
 #include "main.h"
 
-/*
- * _isalpha - function that checks if te entered value is alphanumeric
- *
- * @c: c is  the entered value
- *
- * Return: 1 if alphanumeric and returns 0 if otherwise
- *
+/**
+ * _isalpha - checks for alphabetic character
+ * @c: the character to be checked
+ * Return: 1 if c is a letter, 0 otherwise
  */
 
 int _isalpha(int c)
