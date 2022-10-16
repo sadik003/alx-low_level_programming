@@ -21,17 +21,16 @@
 int _isalpha(int c)
 
 {
-	int ch;
 
-	if (ch >= 48 && ch <= 57)
+	if (c >= 48 && c <= 57)
 	{
 		return (1);
 	}
-	else if (ch >= 65 && ch <= 90)
+	else if (c >= 65 && c <= 90)
 	{
 		return (1);
 	}
-	else if (ch >= 97 && ch <= 122)
+	else if (c >= 97 && c <= 122)
 			{
 				return (1);
 			}
