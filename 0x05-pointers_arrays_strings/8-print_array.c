@@ -20,7 +20,12 @@ void print_array(int *a, int n)
 	j = n - 1;
 	for (i = 0; i <= j; i++)
 	{
-		printf("%d, ", a[i]);
+		printf("%d", a[i]);
+
+		if (i < j)
+		{
+			printf(", ");
+		}
 	}
 	printf("\n");
 }
