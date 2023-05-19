@@ -1,9 +1,5 @@
-/**
- * Author: Abubakar Unwaha
- * Project: Print using the puts function
- */
-
 #include <stdio.h>
+#include <string.h>
 
 /**
  * main - this function print with puts function
@@ -12,7 +8,11 @@
 
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	char str[52];
+
+	strcpy(str, "\"Programming is like building a multilingual puzzle");
+
+	puts(str);
 
 	return (0);
 }
