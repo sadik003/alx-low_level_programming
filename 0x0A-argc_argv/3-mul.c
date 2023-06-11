@@ -56,7 +56,7 @@ int _atoi(char *s)
 
 
 int main(int argc, char **argv)
-{	
+{
 	int num1;
 	int num2;
 	int result;
